@@ -57,6 +57,12 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        message: {
+          sent: "hsl(var(--message-sent))",
+          received: "hsl(var(--message-received))",
+        },
+        online: "hsl(var(--online))",
+        typing: "hsl(var(--typing))",
       },
       borderRadius: {
         lg: "var(--radius)",
