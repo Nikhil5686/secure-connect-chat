@@ -56,7 +56,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://secure_chat.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Simply open [secure_chat](https://secure_chat.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my secure_chat project?
 
